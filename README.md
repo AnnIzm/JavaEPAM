@@ -1,2 +1,2 @@
 # JavaEPAM
-Spring Boot.
+Spring Boot Project "Equation". Part of EPAM course.
